@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - ZFCheckBox (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - ZFCheckBox (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  ZFCheckBox:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  ZFCheckBox: d2bb07e01e094545f8bb6c043fbd00f5fb14c5ad
+
+PODFILE CHECKSUM: 5fc9a08f6aad17873b17134f835a3d804cf61d56
+
+COCOAPODS: 1.5.3

@@ -1,0 +1,6 @@
+framework module ZFCheckBox {
+  umbrella header "ZFCheckBox-umbrella.h"
+
+  export *
+  module * { export * }
+}

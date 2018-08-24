@@ -1,0 +1,6 @@
+framework module Pods_ZFCheckBox_Tests {
+  umbrella header "Pods-ZFCheckBox_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
