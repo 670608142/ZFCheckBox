@@ -7,7 +7,7 @@
 
 ## Example
 
-![Example](https://github.com/670608142/ZFCheckBox/tree/master/Example/example.png)
+![Example](https://github.com/670608142/ZFCheckBox/raw/master/Example/example.jpeg)
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
